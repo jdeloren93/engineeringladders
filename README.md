@@ -34,11 +34,11 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 # Axes
 
 The chart shown above has the following 5 axes:
-* **Technology**: knowledge of the tech stack and tools
-* **System**: level of ownership of the system(s)
-* **People**: relationship with the team(s)
-* **Process**: level of engagement with the development process
-* **Influence**: scope of influence of the position
+* **Technology**: level of knowledge of the tech stack and tools used to build the solution, as well as overall engineering knowledge, including modern technologies
+* **System**: level of ownership of the system(s), or overall solution
+* **People**: level of engagement with the individuals on each team(s)
+* **Process**: level of engagement with the processes in place to ensure delivery
+* **Influence**: level of influence within the organization and/or industry (akin to Blast Radius in a sense - Link to leveling guide)
 
 The **influence** axis can be seen as a *different dimension* since it is orthogonal and applies to all the other axes.
 
