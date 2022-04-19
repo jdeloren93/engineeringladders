@@ -4,15 +4,15 @@ a.k.a "SWE," requires a deep level of technical expertise.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
-| 1 | Junior | [E1 - Engineer 1](#e1---engineer-1) |
-| 2 | Junior | [E2 - Engineer 2](#e2---engineer-2) |
-| 3 | Junior | [E3 - Engineer 3](#e3---engineer-3) |
-| 4 | Senior | [E4 - Engineer 4](#e4---engineer-4) |
-| 5 | Senior | [E5 - Engineer 5](#e5---engineer-5) |
-| 6 | Senior | [E6 - Engineer 6](#e6---engineer-6) |
-| 7 | Senior | [E7 - Engineer 7](#e7---engineer-7) |
+| 1 | Junior | [SWE1 - Engineer 1](#swe1---engineer-1) |
+| 2 | Junior | [SWE2 - Engineer 2](#swe2---engineer-2) |
+| 3 | Junior | [SWE3 - Engineer 3](#swe3---engineer-3) |
+| 4 | Senior | [SWE4 - Engineer 4](#swe4---engineer-4) |
+| 5 | Senior | [SWE5 - Engineer 5](#swe5---engineer-5) |
+| 6 | Senior | [SWE6 - Engineer 6](#swe6---engineer-6) |
+| 7 | Senior | [SWE7 - Engineer 7](#swe7---engineer-7) |
 
-## E1 - Engineer 1
+## SWE1 - Engineer 1
 
 ![Engineer 1](/charts/developer-1.png)
 
@@ -22,7 +22,7 @@ a.k.a "SWE," requires a deep level of technical expertise.
 * **Follows**: follows the team processes, delivering a consistent flow of features to production
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## E2 - Engineer 2
+## SWE2 - Engineer 2
 
 ![Engineer 2](/charts/developer-2.png)
 
@@ -32,7 +32,7 @@ a.k.a "SWE," requires a deep level of technical expertise.
 * **Enforces**: enforces the team processes, making sure everybody understands the benefits and tradeoffs
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## E3 - Engineer 3
+## SWE3 - Engineer 3
 
 ![Engineer 3](/charts/developer-3.png)
 
@@ -42,7 +42,7 @@ a.k.a "SWE," requires a deep level of technical expertise.
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## E4 - Engineer 4
+## SWE4 - Engineer 4
 
 ![Engineer 4](/charts/developer-4.png)
 
@@ -52,7 +52,7 @@ a.k.a "SWE," requires a deep level of technical expertise.
 * **Challenges**: challenges the team processes, looking for ways to improve them
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## E5 - Engineer 5
+## SWE5 - Engineer 5
 
 ![Engineer 5](/charts/developer-5.png)
 
@@ -62,7 +62,7 @@ a.k.a "SWE," requires a deep level of technical expertise.
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## E6 - Engineer 6
+## SWE6 - Engineer 6
 
 ![Engineer 6](/charts/developer-6.png)
 
@@ -72,7 +72,7 @@ a.k.a "SWE," requires a deep level of technical expertise.
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Company**: makes an impact on the whole tech organization
 
-## E7 - Engineer 7
+## SWE7 - Engineer 7
 
 ![Engineer 7](/charts/developer-7.png)
 
