@@ -1,18 +1,18 @@
-# Tech Lead
+# Lead Engineer
 
-Role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support.
+a.k.a "Lead SWE," is the owner of the system/solution and requires a unique balance between hands-on development, architecture knowledge and production support.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
-| 4 | Senior | [TL4 - Tech Lead 4](#tl4---tech-lead-4) |
-| 5 | Senior | [TL5 - Tech Lead 5](#tl5---tech-lead-5) |
-| 6 | Senior | [TL6 - Tech Lead 6](#tl6---tech-lead-6) |
-| 7 | Senior | [TL7 - Tech Lead 7](#tl7---tech-lead-7) |
+| 4 | Senior | [LSWE4 - Lead Engineer 4](#lswe4---lead-engineer-4) |
+| 5 | Senior | [LSWE5 - Lead Engineer 5](#lswe5---lead-engineer-5) |
+| 6 | Senior | [LSWE6 - Lead Engineer 6](#lswe6---lead-engineer-6) |
+| 7 | Senior | [LSWE7 - Lead Engineer 7](#lswe7---lead-engineer-7) |
 
 
-## TL4 - Tech Lead 4
+## LSWE4 - Lead Engineer 4
 
-![Tech Lead 4](/charts/techlead-4.png)
+![Lead Engineer 4](/charts/techlead-4.png)
 
 * **Specializes**: is the go-to person for one or more technologies and takes initiative to learn new ones
 * **Owns**: owns the production operation and monitoring of the system and is aware of its SLAs
@@ -20,9 +20,9 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Adjusts**: adjusts the team processes, listening to feedback and guiding the team through the changes
 * **Subsystem**: makes an impact on one or more subsystems or team pods
 
-## TL5 - Tech Lead 5
+## LSWE5 - Lead Engineer 5
 
-![Tech Lead 5](/charts/techlead-5.png)
+![Lead Engineer 5](/charts/techlead-5.png)
 
 * **Evangelizes**: researches, creates proofs of concept and introduces new technologies to the team
 * **Evolves**: evolves the architecture to support future requirements and defines its SLAs
@@ -30,9 +30,9 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Team**: makes an impact on the whole team, not just on specific parts of it
 
-## TL6 - Tech Lead 6
+## LSWE6 - Lead Engineer 6
 
-![Tech Lead 6](/charts/techlead-6.png)
+![Lead Engineer 6](/charts/techlead-6.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
@@ -40,9 +40,9 @@ Role also known as dev lead, is the owner of the system and requires a unique ba
 * **Defines**: defines the right processes for the team's maturity level, balancing agility and discipline
 * **Multiple Teams**: makes an impact not only on the whole team but also on other teams
 
-## TL7 - Tech Lead 7
+## LSWE7 - Lead Engineer 7
 
-![Tech Lead 7](/charts/techlead-7.png)
+![Lead Engineer 7](/charts/techlead-7.png)
 
 * **Masters**: has very deep knowledge about the whole technology stack of the system
 * **Leads**: leads the technical excellence of the system and creates plans to mitigate outages
