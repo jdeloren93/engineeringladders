@@ -10,12 +10,12 @@ The framework relies heavily on radar charts to visualize the different perspect
 
 # Career Ladders
 
-The framework has 4 different ladders:
+The framework has 4 different "ladders":
 
-* [**Developer**](Developer.md): role also known as programmer or software engineer, requires a deep level of technical expertise
-* [**Tech Lead**](TechLead.md): role also known as dev lead, is the owner of the system and requires a unique balance between hands-on development, architecture knowledge and production support
-* [**Technical Program Manager**](TechnicalProgramManager.md): role responsible for coordinating and driving to completion initiatives that expand multiple teams
-* [**Engineering Manager**](EngineeringManager.md): role also known as dev manager, is responsible for the consistent delivery, career growth and level of happiness of the team
+* [**Developer**](Developer.md): also known as SWE, or software engineer, requires a deep level of technical expertise. This is your baseline "Individual Contributor" role.
+* [**Tech Lead**](TechLead.md): role also known across the industry as a "Tech Lead," or "Dev Lead." The Lead Engineer is the owner of the system (the solution that best achieves a Product's OKRs). This role requires a unique balance between hands-on development, architecture knowledge and production support.
+* [**Technical Program Manager**](TechnicalProgramManager.md): this role is responsible for the coordination of the backlog, and overall development activity, for initiatives that extend across multiple teams, or involve vast organizational change/engagement. This role does not emerge organically for 100% of Product Engineering teams, but should be in place for large-scale products that are embedded deeply within a hairball of technical dependencies (think Price Transparency). This role may also be needed within products that struggle from a lack of strong Product Ownership on the business side.
+* [**Engineering Manager**](EngineeringManager.md): a.k.a. the "EM." This role is responsible for the consistent delivery, career growth and level of happiness of the team. While the Lead Engineer owns the solution, the EM owns the **successful delivery** of that solution.
 
 If you are confused about the difference between a [Tech Lead](TechLead.md) and an [Engineering Manager](EngineeringManager.md), please refer to the [Tech Lead vs Engineering Manager](TechLead-EngineeringManager.md) page for a detailed comparison.
 
