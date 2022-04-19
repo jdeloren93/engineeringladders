@@ -1,10 +1,10 @@
 # Introduction
 
-This framework allows software engineering managers to have meaningful conversations with their direct reports around the expectations of each position and how to plan for the next level in their career ladder.
+This framework seeks to provide software engineering leaders tools to engage in meaningful conversations regarding the expectations of each of the "core 4" positions in Product Engineering teams. Ideally, this will allow leaders to assist their employees in planning for the next rung of their career ladder.
 
-Although the framework uses roles and levels that are somewhat standard in the US tech industry, every company is different. Please use the information provided as a baseline and feel free adjust it to your needs.
+The framework uses roles and levels that are somewhat standard in the US tech industry, and has been adapted from @jorgef's original to be tailored specifically to Optum // UHC Technology. Please use the information provided as a baseline and work with your employees to refine as needed.
 
-The framework relies heavily in radar charts to show visually the different perspectives and expectations of a given position:
+The framework relies heavily on radar charts to visualize the different perspectives and expectations of a given position:
 
 ![Template Chart](charts/template.png)
 
