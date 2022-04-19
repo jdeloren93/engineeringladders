@@ -21,13 +21,13 @@ If you are confused about the difference between a [Tech Lead](TechLead.md) and 
 
 | Level | Seniority | [Developer](Developer.md) | [Tech Lead](TechLead.md) | [Technical Program Manager](TechnicalProgramManager.md) | [Engineering Manager](EngineeringManager.md) |
 | :---: | :---: | :---: | :---: | :---: |  :---: |
-| 1 | Junior | [SWE1](Engineer.md#d1---engineer-1) | | | |
-| 2 | Junior | [SWE2](Engineer.md#d2---engineer-2) | | | |
-| 3 | Junior | [SWE3](Engineer.md#d3---engineer-3) | | | |
-| 4 | Senior | [SWE4](Engineer.md#d4---engineer-4) | [LSWE4](LeadEngineer.md#tl4---lead-engineer-4) | [TPM4](TechnicalProductmManager.md#tpm4---technical-product-manager-4) | |
-| 5 | Senior | [D5](Developer.md#d5---developer-5) | [LSWE5](LeadEngineer.md#tl5---lead-engineer-5) | [TPM5](TechnicalProductManager.md#tpm5---technical-product-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
-| 6 | Senior | [D6](Developer.md#d6---developer-6) | [LSWE6](LeadEngineer.md#tl6---lead-engineer-6) | [TPM6](TechnicalProductManager.md#tpm6---technical-product-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
-| 7 | Senior | [D7](Developer.md#d7---developer-7) | [LSWE7](LeadEngineer.md#tl7---lead-engineer-7) | [TPM7](TechnicalProductManager.md#tpm7---technical-product-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
+| 1 | Junior | [SWE1](Engineer.md#d1---software-engineer-1) | | | |
+| 2 | Junior | [SWE2](Engineer.md#d2---software-engineer-2) | | | |
+| 3 | Junior | [SWE3](Engineer.md#d3---software-engineer-3) | | | |
+| 4 | Senior | [SWE4](Engineer.md#d4---software-engineer-4) | [LSWE4](LeadEngineer.md#tl4---lead-software-engineer-4) | [TPM4](TechnicalProductmManager.md#tpm4---technical-product-manager-4) | |
+| 5 | Senior | [SWE5](Engineer.md#d5---software-engineer-5) | [LSWE5](LeadEngineer.md#tl5---lead-software-engineer-5) | [TPM5](TechnicalProductManager.md#tpm5---technical-product-manager-5) | [EM5](EngineeringManager.md#em5---engineering-manager-5) |
+| 6 | Senior | [SWE6](Engineer.md#d6---software-engineer-6) | [LSWE6](LeadEngineer.md#tl6---lead-software-engineer-6) | [TPM6](TechnicalProductManager.md#tpm6---technical-product-manager-6) | [EM6](EngineeringManager.md#em6---engineering-manager-6) |
+| 7 | Senior | [SWE7](Engineer.md#d7---software-engineer-7) | [LSWE7](LeadEngineer.md#tl7---lead-software-engineer-7) | [TPM7](TechnicalProductManager.md#tpm7---technical-product-manager-7) | [EM7](EngineeringManager.md#em7---engineering-manager-7) |
 
 (click on position name for more details)
 
