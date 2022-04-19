@@ -4,13 +4,13 @@ a.k.a "SWE," requires a deep level of technical expertise.
 
 | Level | Seniority | Position |
 | :---: | :---: | :---: |
-| 1 | Junior | [SWE1 - Engineer 1](#swe1---engineer-1) |
-| 2 | Junior | [SWE2 - Engineer 2](#swe2---engineer-2) |
-| 3 | Junior | [SWE3 - Engineer 3](#swe3---engineer-3) |
-| 4 | Senior | [SWE4 - Engineer 4](#swe4---engineer-4) |
-| 5 | Senior | [SWE5 - Engineer 5](#swe5---engineer-5) |
-| 6 | Senior | [SWE6 - Engineer 6](#swe6---engineer-6) |
-| 7 | Senior | [SWE7 - Engineer 7](#swe7---engineer-7) |
+| 1 | Junior | [SWE1 - Software Engineer 1](#swe1---software-engineer-1) |
+| 2 | Junior | [SWE2 - Software Engineer 2](#swe2---software-engineer-2) |
+| 3 | Junior | [SWE3 - Software Engineer 3](#swe3---software-engineer-3) |
+| 4 | Senior | [SWE4 - Software Engineer 4](#swe4---software-engineer-4) |
+| 5 | Senior | [SWE5 - Software Engineer 5](#swe5---software-engineer-5) |
+| 6 | Senior | [SWE6 - Software Engineer 6](#swe6---software-engineer-6) |
+| 7 | Senior | [SWE7 - Software Engineer 7](#swe7---software-engineer-7) |
 
 ## SWE1 - Software Engineer 1
 
