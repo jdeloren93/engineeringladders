@@ -12,8 +12,8 @@ The framework relies heavily on radar charts to visualize the different perspect
 
 The framework has 4 different "ladders":
 
-* [**Engineer**](Engineer.md): or "SWE," requires a deep level of technical expertise. This is your baseline "Individual Contributor" role.
-* [**Lead Engineer**](LeadEngineer.md): or "Lead SWE." This role also known across the industry as a "Tech Lead," or "Dev Lead." The Lead Engineer is the owner of the system (the solution that best achieves a Product's OKRs). This role requires a unique balance between hands-on development, architecture knowledge and production support.
+* [**Software Engineer**](Engineer.md): or "SWE," requires a deep level of technical expertise. This is your baseline "Individual Contributor" role.
+* [**Lead Software Engineer**](LeadEngineer.md): or "Lead SWE." This role is also known across the industry as a "Tech Lead," or "Dev Lead." The Lead Engineer is the owner of the system (the solution that best achieves a Product's OKRs). This role requires a unique balance between hands-on development, architecture knowledge and production support. At Optum, years of experience in this role leads to the "Principal" and "Senior Principal" title designations. See XX-PRINCIPAL-XX for detail on how those roles differ/expand over time.
 * [**Technical Product Manager**](TechnicalProductManager.md): or "TPM, "this role is responsible for the coordination of the backlog, and overall development activity, for initiatives that extend across multiple teams, or involve vast organizational change/engagement. This role does not emerge organically for 100% of Product Engineering teams, but should be in place for large-scale products that are embedded deeply within a hairball of technical dependencies (think Price Transparency). This role may also be needed within products that struggle from a lack of strong Product Ownership on the business side.
 * [**Engineering Manager**](EngineeringManager.md): or "EM." This role is responsible for the consistent delivery, career growth and level of happiness of the team. While the Lead Engineer owns the solution, the EM owns the **successful delivery** of that solution.
 
